@@ -43,7 +43,7 @@ Our main approach was to get the tweet classified in two features i.e. Party (ha
 We were first implementing SVM model on our raw dataset which gave us very low results. Then after implementing preprocessing steps, our accuracy increased from 59 to 70 percent which is a good ratio.
 According to accuracy, Neural Network gives the best result up to 97.7% accuracy, which is due to our small dataset. By right accuracy, we mean that our input is rightly classified in terms of both response and party.
 
-#REFERENCES :
+# REFERENCES :
 
 https://thesai.org/Publications/ViewPaper?Volume=9&Issue=2&Code=IJACSA&SerialNo=26
 
